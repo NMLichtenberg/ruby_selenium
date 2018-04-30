@@ -19,9 +19,9 @@ Tests are written using the page object model for increased resiliency and optim
 
 **Basic implementation details:**
 
--- Tests are run using grunt task runner
--- Basepage:  Selenium actions are stored in base page. (makes writing tests more efficient and easier to maintain) 
--- Page objects:  Describes the actions avaiable on a wep page (another layer of abstraction that makes writing tests more 
+- Tests are run using grunt task runner
+- Basepage:  Selenium actions are stored in base page. (makes writing tests more efficient and easier to maintain) 
+- Page objects:  Describes the actions avaiable on a wep page (another layer of abstraction that makes writing tests more 
 efficient and easier to maintain)
--- Tests:  Where test cases are defined, and assertions are made
--- Config:  Test configuration options are stored here.  
+- Tests:  Where test cases are defined, and assertions are made
+- Config:  Test configuration options are stored here.  
