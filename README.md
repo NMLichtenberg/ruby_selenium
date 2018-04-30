@@ -19,6 +19,8 @@ install packages: bundle install
 run tests: rake local:chrome
 
 
+
+
 Basic implementation details:
 
 Tests are run using grunt task runner
