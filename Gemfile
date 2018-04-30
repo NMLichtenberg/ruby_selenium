@@ -1,0 +1,13 @@
+source 'https://rubygems.org'
+ruby '2.4.2' # TODO: change to ruby version used by project
+gem 'rake'
+gem 'rspec'
+gem 'selenium-webdriver'
+gem 'rvm'
+gem 'parallel_tests'
+gem 'rspec_junit_formatter'
+gem 'allure-rspec'
+gem 'rspec-retry'
+gem 'rest-client'
+gem 'nokogiri'
+gem 'pry'
