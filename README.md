@@ -1,6 +1,6 @@
 # ruby_selenium
 ruby_selenium
-This  selenium framework written in ruby and utilizes selenium-webdriver and rspec.
+This  selenium framework is written in ruby and utilizes selenium-webdriver and rspec.
 
 Some features of the framework include parallel test execution(faster results), continous integration/continous delivery integration(xunit reports), tagging(targets specific chunks of test code to be executed), integration with selenium grid/saucelabs, allure reports integration(beutiful and insightful reporting), browserscreen shots on failure, flexible test execution, and test retries on failure.
 
