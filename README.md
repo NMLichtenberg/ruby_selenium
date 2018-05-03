@@ -9,7 +9,7 @@ Tests in this repo are written against expedia.com
 **Basic implementation details:**
 - Tests are run using rake task runner
 - Basepage:  Selenium actions are stored in base page. (a layer of abstraction, makes writing tests efficient and maintainable) 
-- Page objects:  Describes actions avaiable on a wep page (another layer of abstraction, helps with efficency and maintainability)
+- Page objects:  Describes actions avaiable on a page.
 - Tests:  Where test cases are written, and assertions are made
 - Config:  Test configuration options are stored here.  
 
